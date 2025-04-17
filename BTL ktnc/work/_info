@@ -1,0 +1,362 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vALU
+Z0 !s110 1744906396
+!i10b 1
+!s100 GeH^b5=n4]jZ1F[7`;aG[0
+I0z4l6@1j8OkTiK;fh@Tm<3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/BTL ktnc
+w1744905142
+8D:/BTL ktnc/ALU.v
+FD:/BTL ktnc/ALU.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1744906396.000000
+!s107 D:/BTL ktnc/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/BTL ktnc/ALU.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@l@u
+vControlUnit
+R0
+!i10b 1
+!s100 LLFNe8;kihBSajGEe[BKH0
+Il>n>U8n<Q0Y_In^DBkY[W2
+R1
+R2
+w1744905155
+8D:/BTL ktnc/ControlUnit.v
+FD:/BTL ktnc/ControlUnit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/BTL ktnc/ControlUnit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/BTL ktnc/ControlUnit.v|
+!i113 1
+R5
+R6
+n@control@unit
+vDecodeStage
+R0
+!i10b 1
+!s100 40GR[h_4]O:Z3?h:iJVLL3
+IMO3o0VDCJBHz4ddR8bD;01
+R1
+R2
+w1744905188
+8D:/BTL ktnc/DecodeStage.v
+FD:/BTL ktnc/DecodeStage.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/BTL ktnc/DecodeStage.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/BTL ktnc/DecodeStage.v|
+!i113 1
+R5
+R6
+n@decode@stage
+vEX_MEM_Register
+R0
+!i10b 1
+!s100 GX0AI9HXM1M[QdS76[h=I1
+IDPQeJl;3]X@CkZVg8S2Cd1
+R1
+R2
+w1744904988
+8D:/BTL ktnc/EX_MEM_Register.v
+FD:/BTL ktnc/EX_MEM_Register.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/BTL ktnc/EX_MEM_Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/BTL ktnc/EX_MEM_Register.v|
+!i113 1
+R5
+R6
+n@e@x_@m@e@m_@register
+vExecuteStage
+R0
+!i10b 1
+!s100 S0>I`SV0[b=D@;o0BC9VR1
+I=WQa31Q>WbUOdc7XfjM572
+R1
+R2
+w1744905210
+8D:/BTL ktnc/ExecuteStage.v
+FD:/BTL ktnc/ExecuteStage.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/BTL ktnc/ExecuteStage.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/BTL ktnc/ExecuteStage.v|
+!i113 1
+R5
+R6
+n@execute@stage
+vFetchStage
+Z7 !s110 1744906397
+!i10b 1
+!s100 b2c7d^NOhnJQK85JQiVFJ2
+I3om1Ua>?NUSfbnM>5MoK92
+R1
+R2
+w1744905169
+8D:/BTL ktnc/FetchStage.v
+FD:/BTL ktnc/FetchStage.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1744906397.000000
+!s107 D:/BTL ktnc/FetchStage.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/BTL ktnc/FetchStage.v|
+!i113 1
+R5
+R6
+n@fetch@stage
+vID_EX_Register
+R7
+!i10b 1
+!s100 OHCBl_con?z=^GggJ]:UI3
+I1I`@HP34`@:Gn;LI_eV>j2
+R1
+R2
+w1744904961
+8D:/BTL ktnc/ID_EX_Register.v
+FD:/BTL ktnc/ID_EX_Register.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/BTL ktnc/ID_EX_Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/BTL ktnc/ID_EX_Register.v|
+!i113 1
+R5
+R6
+n@i@d_@e@x_@register
+vIF_ID_Register
+R7
+!i10b 1
+!s100 `Vd@;imU=`SWe[[aGO4U<2
+IchD?0fT>=lnEW4fGfdLLm2
+R1
+R2
+w1744904924
+8D:/BTL ktnc/IF_ID_Register.v
+FD:/BTL ktnc/IF_ID_Register.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/BTL ktnc/IF_ID_Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/BTL ktnc/IF_ID_Register.v|
+!i113 1
+R5
+R6
+n@i@f_@i@d_@register
+vImmediateGenerator
+R7
+!i10b 1
+!s100 BU3>OlfMd8FmDP:LloaV00
+I;RWJL]a2W1kEN]nVj2UaB2
+R1
+R2
+w1744905128
+8D:/BTL ktnc/ImmediateGenerator.v
+FD:/BTL ktnc/ImmediateGenerator.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/BTL ktnc/ImmediateGenerator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/BTL ktnc/ImmediateGenerator.v|
+!i113 1
+R5
+R6
+n@immediate@generator
+vInstructionMemory
+!s110 1744906796
+!i10b 1
+!s100 2<k0F9C6SARYAMER6ZN=E2
+IPMCgKen:0FfnX5M;GnP@_1
+R1
+R2
+w1744906789
+8D:/BTL ktnc/InstructionMemory.v
+FD:/BTL ktnc/InstructionMemory.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1744906796.000000
+!s107 D:/BTL ktnc/InstructionMemory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/BTL ktnc/InstructionMemory.v|
+!i113 1
+R5
+R6
+n@instruction@memory
+vMEM_WB_Register
+R7
+!i10b 1
+!s100 Sa5@^e9Sgo5M=Z_TTEc=63
+I2COIBK:CVM<BDWPk`5[283
+R1
+R2
+w1744905010
+8D:/BTL ktnc/MEM_WB_Register.v
+FD:/BTL ktnc/MEM_WB_Register.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/BTL ktnc/MEM_WB_Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/BTL ktnc/MEM_WB_Register.v|
+!i113 1
+R5
+R6
+n@m@e@m_@w@b_@register
+vMemoryStage
+R7
+!i10b 1
+!s100 W0?B`Hle=S:BY=P8mUHbZ2
+IC4X2XH]30]c861RU]jO7f2
+R1
+R2
+w1744905232
+8D:/BTL ktnc/MemoryStage.v
+FD:/BTL ktnc/MemoryStage.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/BTL ktnc/MemoryStage.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/BTL ktnc/MemoryStage.v|
+!i113 1
+R5
+R6
+n@memory@stage
+vRegisterFile
+R7
+!i10b 1
+!s100 T3Z[Gf86T@i[M?c??XWdN2
+I7:?oT]YzWUCC6>J=jV0?U0
+R1
+R2
+w1744905102
+8D:/BTL ktnc/RegisterFile.v
+FD:/BTL ktnc/RegisterFile.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/BTL ktnc/RegisterFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/BTL ktnc/RegisterFile.v|
+!i113 1
+R5
+R6
+n@register@file
+vRISC_V_Pipelined
+!s110 1744906636
+!i10b 1
+!s100 a2jeaXIJIL0RKjX6zRE0D2
+IECi`[:8=fgX>3f>^32fMT3
+R1
+R2
+w1744906589
+8D:\BTL ktnc\RISC_V_Pipelined.v
+FD:\BTL ktnc\RISC_V_Pipelined.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1744906636.000000
+!s107 D:\BTL ktnc\RISC_V_Pipelined.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\BTL ktnc\RISC_V_Pipelined.v|
+!i113 1
+R5
+R6
+n@r@i@s@c_@v_@pipelined
+vtb_RISC_V_Pipelined
+R7
+!i10b 1
+!s100 F2dO3;7<N2@VPIa<P=4:M2
+IkdQ6J8o>5^<EQ6BcMEO`_1
+R1
+R2
+w1744905286
+8D:/BTL ktnc/tb_RISC_V_Pipelined.v
+FD:/BTL ktnc/tb_RISC_V_Pipelined.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/BTL ktnc/tb_RISC_V_Pipelined.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/BTL ktnc/tb_RISC_V_Pipelined.v|
+!i113 1
+R5
+R6
+ntb_@r@i@s@c_@v_@pipelined
+vWritebackStage
+R0
+!i10b 1
+!s100 BGAEUdS;X6Y1G3bRz?[kC2
+I1olSh3JbS_8dn@^H_F8i?3
+R1
+R2
+w1744905248
+8D:/BTL ktnc/WritebackStage.v
+FD:/BTL ktnc/WritebackStage.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/BTL ktnc/WritebackStage.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/BTL ktnc/WritebackStage.v|
+!i113 1
+R5
+R6
+n@writeback@stage
