@@ -1,0 +1,186 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vALU
+Z0 !s110 1744896930
+!i10b 1
+!s100 GeH^b5=n4]jZ1F[7`;aG[0
+IWn?U=z:nD1`Vbg1zT_>Gf2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/BTL KTMT
+w1744894382
+8D:/BTL KTMT/ALU.v
+FD:/BTL KTMT/ALU.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1744896930.000000
+!s107 D:/BTL KTMT/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/BTL KTMT/ALU.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@l@u
+vControlUnit
+R0
+!i10b 1
+!s100 LLFNe8;kihBSajGEe[BKH0
+IZ7B>f]zV]1nFJ83>N;aH92
+R1
+R2
+w1744894399
+8D:/BTL KTMT/controlunit.v
+FD:/BTL KTMT/controlunit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/BTL KTMT/controlunit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/BTL KTMT/controlunit.v|
+!i113 1
+R5
+R6
+n@control@unit
+vImmediateGenerator
+R0
+!i10b 1
+!s100 BU3>OlfMd8FmDP:LloaV00
+IZg?5QOi3iKzNUb34^V?_X0
+R1
+R2
+w1744894369
+8D:/BTL KTMT/ImmediateGenerator.v
+FD:/BTL KTMT/ImmediateGenerator.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/BTL KTMT/ImmediateGenerator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/BTL KTMT/ImmediateGenerator.v|
+!i113 1
+R5
+R6
+n@immediate@generator
+vInstructionMemory
+R0
+!i10b 1
+!s100 2<k0F9C6SARYAMER6ZN=E2
+IGb0@Tlca4m4k?cV8dG1:n2
+R1
+R2
+w1744896920
+8D:/BTL KTMT/instructionmemory.v
+FD:/BTL KTMT/instructionmemory.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/BTL KTMT/instructionmemory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/BTL KTMT/instructionmemory.v|
+!i113 1
+R5
+R6
+n@instruction@memory
+vProgramCounter
+R0
+!i10b 1
+!s100 <e<X61dLWYLTo=`okLXMj2
+IChb5KWVog>o1R>1IZY0E13
+R1
+R2
+w1744894274
+8D:/BTL KTMT/program-couter.v
+FD:/BTL KTMT/program-couter.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/BTL KTMT/program-couter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/BTL KTMT/program-couter.v|
+!i113 1
+R5
+R6
+n@program@counter
+vRegisterFile
+R0
+!i10b 1
+!s100 T3Z[Gf86T@i[M?c??XWdN2
+I^foS^Nm<aN7?TG8hElC:30
+R1
+R2
+w1744894325
+8D:/BTL KTMT/registerfile.v
+FD:/BTL KTMT/registerfile.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/BTL KTMT/registerfile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/BTL KTMT/registerfile.v|
+!i113 1
+R5
+R6
+n@register@file
+vRISC_V_Single_Cycle
+!s110 1744896931
+!i10b 1
+!s100 FH;3;_1MMD9=X4]Fo[IWg2
+IS>4Cm1DOEk>2ZLajKX^gC1
+R1
+R2
+w1744894249
+8D:/BTL KTMT/single-cycle.v
+FD:/BTL KTMT/single-cycle.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1744896931.000000
+!s107 D:/BTL KTMT/single-cycle.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/BTL KTMT/single-cycle.v|
+!i113 1
+R5
+R6
+n@r@i@s@c_@v_@single_@cycle
+vtb_RISC_V
+R0
+!i10b 1
+!s100 ]<zBM[ie;NFbljScjine=0
+Ik7_:TBBVHeLWl1=aek=152
+R1
+R2
+w1744895441
+8D:/BTL KTMT/tb_risc_V.v
+FD:/BTL KTMT/tb_risc_V.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/BTL KTMT/tb_risc_V.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/BTL KTMT/tb_risc_V.v|
+!i113 1
+R5
+R6
+ntb_@r@i@s@c_@v

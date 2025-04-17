@@ -1,0 +1,57 @@
+{D:/BTL KTMT/ImmediateGenerator.v} {1 {vlog -work work -stats=none {D:/BTL KTMT/ImmediateGenerator.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ImmediateGenerator
+
+Top level modules:
+	ImmediateGenerator
+
+} {} {}} {D:/BTL KTMT/ALU.v} {1 {vlog -work work -stats=none {D:/BTL KTMT/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {D:/BTL KTMT/instructionmemory.v} {1 {vlog -work work -stats=none {D:/BTL KTMT/instructionmemory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module InstructionMemory
+
+Top level modules:
+	InstructionMemory
+
+} {} {}} {D:/BTL KTMT/tb_risc_V.v} {1 {vlog -work work -stats=none {D:/BTL KTMT/tb_risc_V.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_RISC_V
+
+Top level modules:
+	tb_RISC_V
+
+} {} {}} {D:/BTL KTMT/single-cycle.v} {1 {vlog -work work -stats=none {D:/BTL KTMT/single-cycle.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RISC_V_Single_Cycle
+
+Top level modules:
+	RISC_V_Single_Cycle
+
+} {} {}} {D:/BTL KTMT/program-couter.v} {1 {vlog -work work -stats=none {D:/BTL KTMT/program-couter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ProgramCounter
+
+Top level modules:
+	ProgramCounter
+
+} {} {}} {D:/BTL KTMT/registerfile.v} {1 {vlog -work work -stats=none {D:/BTL KTMT/registerfile.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} {D:/BTL KTMT/controlunit.v} {1 {vlog -work work -stats=none {D:/BTL KTMT/controlunit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ControlUnit
+
+Top level modules:
+	ControlUnit
+
+} {} {}}

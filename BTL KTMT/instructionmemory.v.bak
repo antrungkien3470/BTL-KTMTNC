@@ -1,0 +1,12 @@
+module InstructionMemory (
+    input [31:0] address,
+    output [31:0] instruction
+);
+    reg [31:0] mem[0:63]; // B? nh? l?nh 64 t?, m?i t? 32-bit
+
+    initial begin
+        $readmemh("D:/BTL KTMT/program.hex", mem); // ??c t? program.hex
+    end
+
+    assign instruction = mem[address[7:2]]; // Chia ??a ch? cho 4 (byte -> word)
+endmodule
